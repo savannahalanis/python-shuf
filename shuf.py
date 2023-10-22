@@ -78,9 +78,6 @@ def main():
             else:
                 for item in lo_hi_list:
                     print(item)
-
-# FIX TO DISPlAY ERROR MESSAGES
-
         
 if __name__ == "__main__":
     main()
