@@ -1,2 +1,2 @@
 # python-shuf
-Python version of shuf.py
+Python version of (part of) shuf.py
